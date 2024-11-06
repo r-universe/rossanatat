@@ -1,0 +1,9 @@
+[
+  {
+    "package": "joyn",
+    "url": "https://github.com/randrescastaneda/joyn",
+    "via": ["syncdr"],
+    "branch": "DEV",
+    "from": "syncdr"
+  }
+]
