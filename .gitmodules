@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "joyn"]
-	path = joyn
-	url = https://github.com/randrescastaneda/joyn
-	branch = DEV
-	registered = false
 [submodule "syncdr"]
 	path = syncdr
 	url = https://github.com/rossanatat/syncdr
